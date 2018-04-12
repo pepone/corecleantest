@@ -1,0 +1,6 @@
+msbuild/packages
+msbuild/obj
+*~
+Ice.dll
+Ice.pdb
+Ice.xml
